@@ -708,6 +708,7 @@ function finalisation(uint256 _price) public {
     emit logGeneration(0);
     }
 }
+// Bibliography:
 // [1]	LinkedIn, “LinkedIn Blockchain, Ethereum and Hyperledger Courses,” https://www.linkedin.com/learning/paths/become-a-blockchain-developer?trk=learning-topics_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning.
 // [2]	ethereum.org, “ERC-20 Token Standard,” https://ethereum.org/en/developers/docs/standards/tokens/erc-20/.
 // [3]	J. G. Song, E. S. Kang, H. W. Shin, and J. W. Jang, “A smart contract-based p2p energy trading system with dynamic pricing on ethereum blockchain,” Sensors, vol. 21, no. 6, pp. 1–27, Mar. 2021, doi: 10.3390/s21061985.
